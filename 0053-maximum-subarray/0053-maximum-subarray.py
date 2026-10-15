@@ -7,13 +7,7 @@ class Solution(object):
             count=max(nums[i],count+nums[i])
             maax=max(count,maax)
         return maax
-        
-        
-        
-        
-        
-        
-        
+
         """maax=nums[0]
         i=0
         for i in range(len(nums)):
