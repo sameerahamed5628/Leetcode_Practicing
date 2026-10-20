@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
