@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
