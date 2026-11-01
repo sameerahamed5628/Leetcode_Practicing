@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
