@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0162-find-peak-element) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
