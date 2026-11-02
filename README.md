@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
 ## Matrix
 |  |
 | ------- |
