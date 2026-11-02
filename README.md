@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
