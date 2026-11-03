@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0540-single-element-in-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
 ## Matrix
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0414-third-maximum-number) |
 ## Quicksort
 |  |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
