@@ -1,17 +1,17 @@
 class Solution(object):
     def countAndSay(self, n):
-        first="1"
+        RLE="1"
         for x in range(n-1):
-            RLE=[]
+            new=[]
             count=1
-            for i in range(1,len(first)):
-                if first[i]==first[i-1]:
+            for i in range(1,len(RLE)):
+                if RLE[i]==RLE[i-1]:
                     count+=1
                 else:
-                    RLE.append(str(count))
-                    RLE.append(first[i-1])
+                    new.append(str(count))
+                    new.append(RLE[i-1])
                     count=1
-            RLE.append(str(count))
-            RLE.append(first[-1])
-            first= "".join(RLE)
-        return first
+            new.append(str(count))
+            new.append(RLE[-1])
+            RLE= "".join(new)
+        return RLE
