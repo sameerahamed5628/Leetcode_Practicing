@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
