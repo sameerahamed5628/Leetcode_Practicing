@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1480-running-sum-of-1d-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Quicksort
 |  |
 | ------- |
