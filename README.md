@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1480-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
