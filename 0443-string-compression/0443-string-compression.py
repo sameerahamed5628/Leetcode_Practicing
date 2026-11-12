@@ -1,6 +1,6 @@
 class Solution(object):
     def compress(self, chars):
-        new=[]
+        place=0
         i=0
         while i<len(chars):
             s=chars[i]
@@ -8,12 +8,14 @@ class Solution(object):
             while i<len(chars) and chars[i]==s:
                 count+=1
                 i+=1
-            new.append(s)
+            chars[place]=s
+            place+=1
             if count>1:
-                new+=list(str(count))
-        chars[:]=new
-        return len(new)
-            
+                for x in str(count):
+                    chars[place]=x
+                    place+=1
+
+        return place
 
         
         
