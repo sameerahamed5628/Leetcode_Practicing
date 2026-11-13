@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0821-shortest-distance-to-a-character) |
+| [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
 ## Matrix
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0821-shortest-distance-to-a-character) |
+| [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [2129-capitalize-the-title](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2129-capitalize-the-title) |
