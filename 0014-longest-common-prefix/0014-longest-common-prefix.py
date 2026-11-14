@@ -3,10 +3,9 @@ class Solution(object):
         if len(strs)<2:
             return strs[0]
         refer=strs[0]
-        for x in range(len(refer)):
-            ch=refer[x]
+        for i in range(len(refer)):
+            x=refer[i]
             for word in strs[1:]:
-                if x>=len(word) or word[x]!=ch:
-                    return refer[:x]
-            
-        return refer
+                if i>=len(word) or word[i]!=x:
+                    return refer[:i]
+        return refer 
