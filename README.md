@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0540-single-element-in-a-sorted-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1480-running-sum-of-1d-array) |
 ## Design
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
