@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0821-shortest-distance-to-a-character) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
@@ -239,10 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
