@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2129-capitalize-the-title](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2129-capitalize-the-title) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Queue
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1480-running-sum-of-1d-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Design
 |  |
 | ------- |
