@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2129-capitalize-the-title) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Queue
