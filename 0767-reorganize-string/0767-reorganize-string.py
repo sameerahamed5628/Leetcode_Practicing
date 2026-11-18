@@ -19,14 +19,14 @@ class Solution(object):
 
         out=[]
         while new:
-            best=None
+            hold=None
             for z in new:
                 if out and z==out[-1]:
                     continue
-                if best is None or new[z]>new[best]:
-                    best=z
-            out.append(best)
-            new[best]-=1
-            if new[best]==0:
-                del new[best]
+                if hold is None or new[z]>new[hold]:
+                    hold=z
+            out.append(hold)
+            new[hold]-=1
+            if new[hold]==0:
+                del new[hold]
         return "".join(out)
