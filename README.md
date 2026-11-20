@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0217-contains-duplicate) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0242-valid-anagram) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
