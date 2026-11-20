@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Matrix
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0767-reorganize-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2129-capitalize-the-title) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
