@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0791-custom-sort-string) |
+| [0859-buddy-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0821-shortest-distance-to-a-character) |
+| [0859-buddy-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
