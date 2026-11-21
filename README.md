@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0451-sort-characters-by-frequency) |
