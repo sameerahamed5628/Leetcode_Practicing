@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1773-count-items-matching-a-rule) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
+| [1773-count-items-matching-a-rule](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1773-count-items-matching-a-rule) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
