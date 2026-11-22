@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
