@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
