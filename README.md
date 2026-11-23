@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1207-unique-number-of-occurrences](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 ## Quicksort
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0767-reorganize-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1773-count-items-matching-a-rule) |
