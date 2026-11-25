@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Newton's Method
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
