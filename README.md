@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Newton's Method
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1260-shift-2d-grid) |
 ## Z Algorithm
 |  |
