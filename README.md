@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0205-isomorphic-strings) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1260-shift-2d-grid) |
 ## Z Algorithm
 |  |
