@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Newton's Method
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1763-longest-nice-substring](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1763-longest-nice-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
