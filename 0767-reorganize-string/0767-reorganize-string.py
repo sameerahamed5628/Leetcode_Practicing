@@ -1,32 +1,31 @@
 class Solution(object):
     def reorganizeString(self, s):
-        build={}
+        doop={}
         for x in s:
-            if x in build:
-                build[x]+=1
-            else:
-                build[x]=1
-
-        threshold=(len(s)+1)//2
-        if max(build.values())>threshold:
+            doop[x]=doop.get(x,0)+1
+        n=max(doop.values())
+        
+        if n>(len(s)+1)//2:
             return ""
         
-        new={}
-        while build:
-            maax=max(build,key=build.get)
-            new[maax]=build[maax]
-            del build[maax]
-
+        build={}
+        while doop:
+            maax=max(doop,key=doop.get)
+            build[maax]=doop[maax]
+            del doop[maax]
+        
         out=[]
-        while new:
-            hold=None
-            for z in new:
-                if out and z==out[-1]:
+        while build:
+            have=None
+            for x in build:
+                if out and x==out[-1]:
                     continue
-                if hold is None or new[z]>new[hold]:
-                    hold=z
-            out.append(hold)
-            new[hold]-=1
-            if new[hold]==0:
-                del new[hold]
+                if have==None or build[x]>build[have]:
+                    have=x
+            out.append(have)
+            build[have]-=1
+            if build[have]==0:
+                del build[have]
         return "".join(out)
+                
+                
