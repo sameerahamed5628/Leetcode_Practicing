@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Matrix
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2129-capitalize-the-title) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Queue
 |  |
