@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0720-longest-word-in-dictionary) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [0890-find-and-replace-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0890-find-and-replace-pattern) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0451-sort-characters-by-frequency) |
+| [0720-longest-word-in-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0859-buddy-strings) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0720-longest-word-in-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0709-to-lower-case) |
+| [0720-longest-word-in-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0796-rotate-string) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0720-longest-word-in-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
