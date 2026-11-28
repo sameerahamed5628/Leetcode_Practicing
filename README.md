@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0977-squares-of-a-sorted-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0953-verifying-an-alien-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1446-consecutive-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1678-goal-parser-interpretation) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/0796-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sameerahamed5628/Leetcode_Practicing/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
 | ------- |
